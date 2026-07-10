@@ -1,0 +1,12 @@
+﻿Energy/
+venv/
+data/*.csv
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+models/*.pkl
+models/*.h5
